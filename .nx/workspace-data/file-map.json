@@ -1,0 +1,124 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.4.0",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "pluginsConfig": {
+    "@nx/js": {
+      "analyzeSourceFiles": false
+    }
+  },
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".eslintrc.cjs",
+        "hash": "11845390451519816490"
+      },
+      {
+        "file": "app/front-end/public/window.svg",
+        "hash": "16677869292061012332"
+      },
+      {
+        "file": "app/front-end/public/next.svg",
+        "hash": "8300767200008744458"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "12408726139705291693"
+      },
+      {
+        "file": "app/front-end/src/app/products/[productId]/page.tsx",
+        "hash": "12471905970498095911"
+      },
+      {
+        "file": "app/front-end/next.config.ts",
+        "hash": "17157214668998829023"
+      },
+      {
+        "file": "app/front-end/public/globe.svg",
+        "hash": "9134466864871335697"
+      },
+      {
+        "file": "app/front-end/src/app/globals.css",
+        "hash": "15891550427149691066"
+      },
+      {
+        "file": "app/front-end/README.md",
+        "hash": "17745675687188496902"
+      },
+      {
+        "file": "app/front-end/src/app/layout.tsx",
+        "hash": "3768300601413009371"
+      },
+      {
+        "file": "app/front-end/src/app/page.tsx",
+        "hash": "13934200630974797394"
+      },
+      {
+        "file": "app/front-end/src/app/features/[...slug]/page.tsx",
+        "hash": "10679835211773719097"
+      },
+      {
+        "file": "app/front-end/tailwind.config.ts",
+        "hash": "3655220359568002042"
+      },
+      {
+        "file": "app/front-end/public/file.svg",
+        "hash": "15617830351863523835"
+      },
+      {
+        "file": "package.json",
+        "hash": "17014207211545920647"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "10246952416044616091"
+      },
+      {
+        "file": "app/front-end/eslint.config.mjs",
+        "hash": "11349616980964601162"
+      },
+      {
+        "file": "app/front-end/src/pages/test.tsx",
+        "hash": "1962512570162312284"
+      },
+      {
+        "file": "app/front-end/tsconfig.json",
+        "hash": "4965826641429490352"
+      },
+      {
+        "file": "nx.json",
+        "hash": "12011376122191885733"
+      },
+      {
+        "file": "app/front-end/postcss.config.mjs",
+        "hash": "2557392112968376575"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "10441949071766309757"
+      },
+      {
+        "file": "app/front-end/src/app/favicon.ico",
+        "hash": "9157999678830540297"
+      },
+      {
+        "file": "app/front-end/public/vercel.svg",
+        "hash": "3007623926711696394"
+      },
+      {
+        "file": "app/front-end/src/app/products/[productId]/review/[reviewId]/page.tsx",
+        "hash": "3744120771196377708"
+      },
+      {
+        "file": "app/front-end/.gitignore",
+        "hash": "10441949071766309757"
+      },
+      {
+        "file": "app/front-end/package.json",
+        "hash": "4518124544091238024"
+      }
+    ],
+    "projectFileMap": {}
+  }
+}
