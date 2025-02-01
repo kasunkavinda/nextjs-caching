@@ -14,9 +14,11 @@ export const generateMetadata = async ({
   };
 };
 
-const DocsPage = ({ params }: { params: Promise<{ slug: string }> }) => {
+const DocsPage = async ({ params }: { params: Promise<{ slug: string }> }) => {
   console.log("array", params);
-  return <div>page</div>;
+
+  const paramValue = (await params).slug;
+  return <div>page - {paramValue}</div>;
 };
 
 export default DocsPage;
