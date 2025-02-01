@@ -1,3 +1,4 @@
+import Link from "next/link";
 import LinkPathname from "./components/link-pathname/link-pathname";
 
 export const metadata = {
@@ -19,6 +20,11 @@ export default function OtherLayout({
           <LinkPathname />
         </div>
         {children}
+        <Link href="articles/breaking-news-123?lang=en">Read in English</Link>
+        <Link href="articles/breaking-news-123?lang=fr">Read in French</Link>
+        <Link href="client-articles/breaking-news-123?lang=fr">
+          Read in French
+        </Link>
         <footer>this is footer</footer>
         {/* <ActiveLink /> */}
       </body>
