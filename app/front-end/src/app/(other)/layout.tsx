@@ -1,6 +1,6 @@
 import Link from "next/link";
 import LinkPathname from "./components/link-pathname/link-pathname";
-import InputComponent from "./components/input-component/input-component";
+// import InputComponent from "./components/input-component/input-component";
 
 export const metadata = {
   title: "Next.js",
